@@ -1,0 +1,80 @@
+Ideas
+Program run automatically at end of month?
+	cron
+
+Sends email with output data automatically !
+	smtplib
+  month name in email !
+
+Spreadsheet cleared out for new month !
+
+Program will have to know what month it is !
+
+Loop through columns to account for a variable number of items?
+
+Fewest calls to api possible to grab data?
+
+Spreadsheet set up for correct weekdays !
+	calendar library/api/function
+    =CHOOSE( weekday(H1), "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")
+      use loop in program to add weekdays to cells in spreadsheet
+       (get loop working, then think about datetime or some method so program knows where to start)
+	  if not calendar use 38 weekdays and start inputing
+	    data at correct weekday (logic in program to pull only relevant data)
+
+Different program to update cells??
+
+Save file with current data before updating all cells !
+
+Get month/year somewhere on spreadsheet !
+  separate program to make sure it's on current month??
+
+Tasks
+Lay out spreadsheet !
+
+Get client secret file !
+
+Test program for emailing data !
+
+Test program for wiping out data (to reset for new month) !
+
+Test program for calendar library/api !
+
+Test program for program running automatically?
+
+Test program for pulling data from spreadsheet with one call?
+
+Write program to fit with new spreadsheet?
+
+Next as of 1/7:
+  monty/year at top to update correctly (show month, account for dec-jan transition)?
+		when is program going to run?? On the first of the month??
+  code calculations (total, averages)?
+  combine functionalities (calculations, file creation, email, update sheet)?
+  format files that are created?
+  how to get email working for production (with security)?
+
+
+1/6 - successfully got script to pull in data from sheet, manipulate it (just total), create files, email files, and clear sheet back to zeros
+    - research how to automatically run !
+    - work on getting sheet to display correct days according to the current month?
+    - think about how email can contain the month name ! - datetime month if statement
+
+1/7 - work on getting sheet to display correct days according to the current month !
+    - make month variable based on datetime !
+
+1/13 - work on calculations
+		 - think about looping for variable items, what variables/lists/dicts need to be created automatically?
+		    dict for weekday item totals. list for items. 
+
+gspread get_all_records documentation
+  get_all_records(empty2zero=False, head=1, default_blank='', allow_underscores_in_numeric_literals=False)
+  Returns a list of dictionaries, all of them having the contents of the spreadsheet with the head row as keys and each of these dictionaries holding the contents of subsequent rows of cells as values.
+
+  Cell values are numericised (strings that can be read as ints or floats are converted).
+
+  Parameters:
+  empty2zero (bool) – (optional) Determines whether empty cells are converted to zeros.
+  head (int) – (optional) Determines wich row to use as keys, starting from 1 following the numeration of the spreadsheet.
+  default_blank (str) – (optional) Determines whether empty cells are converted to something else except empty string or zero.
+  allow_underscores_in_numeric_literals (bool) – (optional) Allow underscores in numeric literals, as introduced in PEP 515
