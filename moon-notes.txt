@@ -32,8 +32,11 @@ Get month/year somewhere on spreadsheet !
 What if want to run file mid month, don't want cells to clear out??
 
 What's the best way to combine files for this project, do we want separate funcionality??
+	two files (data, calculations, output, files, email), (update month/weekdays, clear out cells)??
 
 Clear out to blanks for all/variable number of items?
+
+
 
 Tasks
 Lay out spreadsheet !

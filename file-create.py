@@ -1,3 +1,5 @@
+# works
+
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -17,19 +19,19 @@ print(data)
 # print(data)
 
 # correct formatting and file creation
-l = []
+f_list = []
 f1 = open('test-raw-data.txt', 'w+')
 count = 0
-for each in data :
-    for k,v in each.items() :
-        l.append(str(k))
-        l.append(' | ')
-        l.append(str(v))
-        l.append(' | ')
+for dic in data :
+    for key,value in dic.items() :
+        f_list.append(str(key))
+        f_list.append(' | ')
+        f_list.append(str(value))
+        f_list.append(' | ')
         count = count + 1
-        if count >= len(each) :
-            l.append('\n')
+        if count >= len(dic) :
+            f_list.append('\n')
             count = 0
 
-f1.writelines(l)
+f1.writelines(f_list)
 f1.close()

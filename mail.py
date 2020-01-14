@@ -1,3 +1,5 @@
+# works
+
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -10,7 +12,7 @@ name = 'testing'
 sheet = client.open(name).sheet1
 data = sheet.get_all_records(empty2zero=True, head=2)
 
-print(data)
+# print(data)
 
 # change blanks to zeros, might not need this anymore
 # for each in data :
@@ -20,17 +22,6 @@ print(data)
 #             v = 0
         # print('key:', k, 'value:', v)
 
-# calculate total
-# total = 0
-# for each in data:
-#     for key,value in each.items():
-#         try:
-#             num = int(value)
-#         except:
-#             continue
-#         total = total + num
-#
-# print(total)
 
 # this gets the month number successfully and month/year for email
 import datetime
@@ -48,24 +39,6 @@ if month[0] == '0' : # makes one digit if first number is 0
 int_month = int(month)
 # print(int_month)
 
-# making files see file-create.py
-# f1 = open('raw-data.txt', 'w+')
-# head = ['day | ', 'item1 | ', 'item2\n']
-# f1.writelines(head)
-# for each in data :
-#     for k,v in each.items() :
-#         lines = [str(v), ' |   ']
-#         f1.writelines(lines)
-#
-#
-# f2 = open('test-calcs.txt', 'w+')
-# strlst2 = ['Total: ', str(total)]
-# f2.writelines(strlst2)
-# print('files created')
-#
-# f1.close()
-# f2.close()
-
 # email files
 import email, smtplib, ssl
 
@@ -75,7 +48,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 subject = "Waste Data South 1st " + month_year_for_email
-body = "Automated email. Attached are the files containing the data from this months sheet, and the total number of wasted items"
+body = "Automated email. Attached are the files containing the data from this month's sheet, and the total number of wasted items"
 sender_email = "pythontesting2020learning@gmail.com"
 receiver_email = "pythontesting2020learning@gmail.com"
 password = input("Type your password and press enter:")
@@ -92,7 +65,7 @@ message["Bcc"] = receiver_email  # Recommended for mass emails
 # Add body to email
 message.attach(MIMEText(body, "plain"))
 
-filenames = ['raw-data.txt', 'test-calcs.txt']
+filenames = ['test-raw-data.txt', 'test-calcs.txt']
 # Open PDF file in binary mode
 for each in filenames :
     with open(each, "rb") as attachment:
@@ -124,4 +97,4 @@ try :
 except :
     print('Problem sending email')
     quit()
-print('email sent')
+print('Email sent')

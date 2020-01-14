@@ -1,4 +1,4 @@
-
+# works
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
@@ -33,13 +33,14 @@ weekdays = ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']
 month_days = []
 start_total = 0
 end_total = 0
-cal= calendar.Calendar(firstweekday=0)
+cal = calendar.Calendar(firstweekday=0)
 for day in cal.itermonthdays(2020, int_month) :
     # print(x)
     if day == 0 :
         start_total = start_total + 1
     elif day == 1 :
         break
+
 for day in cal.itermonthdays(2020, int_month) :
     if day > 0 :
         end_total = end_total + 1
@@ -89,4 +90,4 @@ while row < 34 :
     sheet.update_cell(row, 1, month_days[month_day])
     row = row + 1
     month_day = month_day + 1
-print('cells updated')
+print('Weekday cells updated')
