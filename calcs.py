@@ -204,10 +204,10 @@ def output(full_weekday, day_dic) :
 output('Sunday', sun) # same as above, could make loop if sun/mon etc were in an object
 output('Monday', mon)
 output('Tuesday', tue)
-output('Monday', mon)
-output('Monday', mon)
-output('Monday', mon)
-output('Monday', mon)
+output('Wednesday', wed)
+output('Thursday', thu)
+output('Friday', fri)
+output('Saturday', sat)
 
 # counter = 0
 # for each in day_list :
