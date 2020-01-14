@@ -10,7 +10,7 @@ Spreadsheet cleared out for new month !
 
 Program will have to know what month it is !
 
-Loop through columns to account for a variable number of items?
+Loop through columns to account for a variable number of items !
 
 Fewest calls to api possible to grab data?
 
@@ -28,6 +28,12 @@ Save file with current data before updating all cells !
 
 Get month/year somewhere on spreadsheet !
   separate program to make sure it's on current month??
+
+What if want to run file mid month, don't want cells to clear out??
+
+What's the best way to combine files for this project, do we want separate funcionality??
+
+Clear out to blanks for all/variable number of items?
 
 Tasks
 Lay out spreadsheet !
@@ -57,15 +63,20 @@ Next as of 1/7:
 
 1/6 - successfully got script to pull in data from sheet, manipulate it (just total), create files, email files, and clear sheet back to zeros
     - research how to automatically run !
-    - work on getting sheet to display correct days according to the current month?
+    - work on getting sheet to display correct days according to the current month !
     - think about how email can contain the month name ! - datetime month if statement
 
 1/7 - work on getting sheet to display correct days according to the current month !
     - make month variable based on datetime !
 
 1/13 - work on calculations
-		 - think about looping for variable items, what variables/lists/dicts need to be created automatically?
-		    dict for weekday item totals. list for items. 
+		 - think about looping for variable items, what variables/lists/dicts need to be created automatically !
+		    dict for weekday item totals. list for items.
+
+1/14 - get averages to output nicely?
+		 - account for food_items variability in output?
+		 - start putting files together?
+
 
 gspread get_all_records documentation
   get_all_records(empty2zero=False, head=1, default_blank='', allow_underscores_in_numeric_literals=False)
