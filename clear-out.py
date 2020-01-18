@@ -16,7 +16,7 @@ data = sheet.get_all_records(empty2zero=True, head=2)
 # print(data)
 
 # clearing out sheet, needs some work
-sheet.update_acell('A1', 'current month')
+# sheet.update_acell('A1', 'current month')
 cell_list = sheet.range('B3:T34') # need to make variable end column
 
 for cell in cell_list:

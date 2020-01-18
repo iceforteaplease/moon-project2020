@@ -1,0 +1,33 @@
+What do I need to implement phase 1 :
+
+  standard format spreadsheet for south 1st and westlake?
+    add day numbers, add vendor names?
+    standardized spreadsheet names?
+    confirm spreadsheet format with Dustin?
+
+  research permissions for certain rows?
+
+  share spreadsheet so program can run?
+
+  test that program can pull data from both spreadsheets?
+
+  create text file/google doc with all food vendors and products?
+
+  get with Sarah to go over details?
+
+  get staff to put zeros in instead of leaving blank?
+
+  adjust program to work with new spreadsheet format?
+
+  test program with new spreadsheet format?
+
+
+Program things :
+
+  clear out needs to work for variable number of cells?
+
+  think about array mapping instead of many variables?
+
+  combine appropriate files to run together in most efficient way?
+
+  created files have month/year in name? could always manually change after, but would be cool

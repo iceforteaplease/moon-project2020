@@ -1,1 +1,53 @@
-Total: 27
+Total Waste: 0
+
+Averages: 
+
+  Sunday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Monday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Tuesday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Wednesday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Thursday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Friday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+
+Saturday - 
+      pec : 0.00 | migas : 0.00 | bc : 0.00 | vegan : 0.00 | cinn roll : 0.00 | 
+      danish : 0.00 | walnut scone : 0.00 | currant scone : 0.00 | blue muff : 0.00 | 
+      nut muff : 0.00 | pop muffin : 0.00 | croissant : 0.00 | choc croissant : 0.00 | 
+      alm croissant : 0.00 | glazed donut : 0.00 | choc donut : 0.00 | sprinkle  : 0.00 | 
+      blue donut : 0.00 | cinn donut : 0.00 | 
+

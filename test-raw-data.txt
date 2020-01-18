@@ -1,29 +1,31 @@
-day | sat | pec | 0 | migas | 0 | 
-day | sun | pec | 0 | migas | 0 | 
-day | mon | pec | 7 | migas | 6 | 
-day | tue | pec | 0 | migas | 0 | 
-day | wed | pec | 0 | migas | 0 | 
-day | thu | pec | 0 | migas | 0 | 
-day | fri | pec | 0 | migas | 0 | 
-day | sat | pec | 0 | migas | 0 | 
-day | sun | pec | 0 | migas | 0 | 
-day | mon | pec | 0 | migas | 0 | 
-day | tue | pec | 0 | migas | 0 | 
-day | wed | pec | 0 | migas | 0 | 
-day | thu | pec | 0 | migas | 0 | 
-day | fri | pec | 0 | migas | 0 | 
-day | sat | pec | 0 | migas | 0 | 
-day | sun | pec | 0 | migas | 0 | 
-day | mon | pec | 0 | migas | 0 | 
-day | tue | pec | 0 | migas | 0 | 
-day | wed | pec | 0 | migas | 0 | 
-day | thu | pec | 0 | migas | 0 | 
-day | fri | pec | 0 | migas | 0 | 
-day | sat | pec | 0 | migas | 0 | 
-day | sun | pec | 0 | migas | 0 | 
-day | mon | pec | 0 | migas | 0 | 
-day | tue | pec | 0 | migas | 0 | 
-day | wed | pec | 0 | migas | 0 | 
-day | thu | pec | 0 | migas | 0 | 
-day | fri | pec | 0 | migas | 0 | 
-day | sat | pec | 0 | migas | 0 | 
+day | wed | pec | 1 | migas | 1 | bc | 1 | vegan | 1 | cinn roll | 1 | danish | 1 | walnut scone | 1 | currant scone | 1 | blue muff | 1 | nut muff | 1 | pop muffin | 1 | croissant | 1 | choc croissant | 1 | alm croissant | 1 | glazed donut | 1 | choc donut | 1 | sprinkle  | 1 | blue donut | 1 | cinn donut | 1 | 
+day | thu | pec | 2 | migas | 2 | bc | 2 | vegan | 2 | cinn roll | 2 | danish | 2 | walnut scone | 2 | currant scone | 2 | blue muff | 2 | nut muff | 2 | pop muffin | 2 | croissant | 2 | choc croissant | 2 | alm croissant | 2 | glazed donut | 2 | choc donut | 2 | sprinkle  | 2 | blue donut | 2 | cinn donut | 2 | 
+day | fri | pec | 3 | migas | 3 | bc | 3 | vegan | 3 | cinn roll | 3 | danish | 3 | walnut scone | 3 | currant scone | 3 | blue muff | 3 | nut muff | 3 | pop muffin | 3 | croissant | 3 | choc croissant | 3 | alm croissant | 3 | glazed donut | 3 | choc donut | 3 | sprinkle  | 3 | blue donut | 3 | cinn donut | 3 | 
+day | sat | pec | 4 | migas | 4 | bc | 4 | vegan | 4 | cinn roll | 4 | danish | 4 | walnut scone | 4 | currant scone | 4 | blue muff | 4 | nut muff | 4 | pop muffin | 4 | croissant | 4 | choc croissant | 4 | alm croissant | 4 | glazed donut | 4 | choc donut | 4 | sprinkle  | 4 | blue donut | 4 | cinn donut | 4 | 
+day | sun | pec | 5 | migas | 5 | bc | 5 | vegan | 5 | cinn roll | 5 | danish | 5 | walnut scone | 5 | currant scone | 5 | blue muff | 5 | nut muff | 5 | pop muffin | 5 | croissant | 5 | choc croissant | 5 | alm croissant | 5 | glazed donut | 5 | choc donut | 5 | sprinkle  | 5 | blue donut | 5 | cinn donut | 5 | 
+day | mon | pec | 6 | migas | 6 | bc | 6 | vegan | 6 | cinn roll | 6 | danish | 6 | walnut scone | 6 | currant scone | 6 | blue muff | 6 | nut muff | 6 | pop muffin | 6 | croissant | 6 | choc croissant | 6 | alm croissant | 6 | glazed donut | 6 | choc donut | 6 | sprinkle  | 6 | blue donut | 6 | cinn donut | 6 | 
+day | tue | pec | 7 | migas | 7 | bc | 7 | vegan | 7 | cinn roll | 7 | danish | 7 | walnut scone | 7 | currant scone | 7 | blue muff | 7 | nut muff | 7 | pop muffin | 7 | croissant | 7 | choc croissant | 7 | alm croissant | 7 | glazed donut | 7 | choc donut | 7 | sprinkle  | 7 | blue donut | 7 | cinn donut | 7 | 
+day | wed | pec | 1 | migas | 1 | bc | 1 | vegan | 1 | cinn roll | 1 | danish | 1 | walnut scone | 1 | currant scone | 1 | blue muff | 1 | nut muff | 1 | pop muffin | 1 | croissant | 1 | choc croissant | 1 | alm croissant | 1 | glazed donut | 1 | choc donut | 1 | sprinkle  | 1 | blue donut | 1 | cinn donut | 1 | 
+day | thu | pec | 2 | migas | 2 | bc | 2 | vegan | 2 | cinn roll | 2 | danish | 2 | walnut scone | 2 | currant scone | 2 | blue muff | 2 | nut muff | 2 | pop muffin | 2 | croissant | 2 | choc croissant | 2 | alm croissant | 2 | glazed donut | 2 | choc donut | 2 | sprinkle  | 2 | blue donut | 2 | cinn donut | 2 | 
+day | fri | pec | 3 | migas | 3 | bc | 3 | vegan | 3 | cinn roll | 3 | danish | 3 | walnut scone | 3 | currant scone | 3 | blue muff | 3 | nut muff | 3 | pop muffin | 3 | croissant | 3 | choc croissant | 3 | alm croissant | 3 | glazed donut | 3 | choc donut | 3 | sprinkle  | 3 | blue donut | 3 | cinn donut | 3 | 
+day | sat | pec | 4 | migas | 4 | bc | 4 | vegan | 4 | cinn roll | 4 | danish | 4 | walnut scone | 4 | currant scone | 4 | blue muff | 4 | nut muff | 4 | pop muffin | 4 | croissant | 4 | choc croissant | 4 | alm croissant | 4 | glazed donut | 4 | choc donut | 4 | sprinkle  | 4 | blue donut | 4 | cinn donut | 4 | 
+day | sun | pec | 5 | migas | 5 | bc | 5 | vegan | 5 | cinn roll | 5 | danish | 5 | walnut scone | 5 | currant scone | 5 | blue muff | 5 | nut muff | 5 | pop muffin | 5 | croissant | 5 | choc croissant | 5 | alm croissant | 5 | glazed donut | 5 | choc donut | 5 | sprinkle  | 5 | blue donut | 5 | cinn donut | 5 | 
+day | mon | pec | 6 | migas | 6 | bc | 6 | vegan | 6 | cinn roll | 6 | danish | 6 | walnut scone | 6 | currant scone | 6 | blue muff | 6 | nut muff | 6 | pop muffin | 6 | croissant | 6 | choc croissant | 6 | alm croissant | 6 | glazed donut | 6 | choc donut | 6 | sprinkle  | 6 | blue donut | 6 | cinn donut | 6 | 
+day | tue | pec | 7 | migas | 7 | bc | 7 | vegan | 7 | cinn roll | 7 | danish | 7 | walnut scone | 7 | currant scone | 7 | blue muff | 7 | nut muff | 7 | pop muffin | 7 | croissant | 7 | choc croissant | 7 | alm croissant | 7 | glazed donut | 7 | choc donut | 7 | sprinkle  | 7 | blue donut | 7 | cinn donut | 7 | 
+day | wed | pec | 1 | migas | 1 | bc | 1 | vegan | 1 | cinn roll | 1 | danish | 1 | walnut scone | 1 | currant scone | 1 | blue muff | 1 | nut muff | 1 | pop muffin | 1 | croissant | 1 | choc croissant | 1 | alm croissant | 1 | glazed donut | 1 | choc donut | 1 | sprinkle  | 1 | blue donut | 1 | cinn donut | 1 | 
+day | thu | pec | 2 | migas | 2 | bc | 2 | vegan | 2 | cinn roll | 2 | danish | 2 | walnut scone | 2 | currant scone | 2 | blue muff | 2 | nut muff | 2 | pop muffin | 2 | croissant | 2 | choc croissant | 2 | alm croissant | 2 | glazed donut | 2 | choc donut | 2 | sprinkle  | 2 | blue donut | 2 | cinn donut | 2 | 
+day | fri | pec | 3 | migas | 3 | bc | 3 | vegan | 3 | cinn roll | 3 | danish | 3 | walnut scone | 3 | currant scone | 3 | blue muff | 3 | nut muff | 3 | pop muffin | 3 | croissant | 3 | choc croissant | 3 | alm croissant | 3 | glazed donut | 3 | choc donut | 3 | sprinkle  | 3 | blue donut | 3 | cinn donut | 3 | 
+day | sat | pec | 4 | migas | 4 | bc | 4 | vegan | 4 | cinn roll | 4 | danish | 4 | walnut scone | 4 | currant scone | 4 | blue muff | 4 | nut muff | 4 | pop muffin | 4 | croissant | 4 | choc croissant | 4 | alm croissant | 4 | glazed donut | 4 | choc donut | 4 | sprinkle  | 4 | blue donut | 4 | cinn donut | 4 | 
+day | sun | pec | 5 | migas | 5 | bc | 5 | vegan | 5 | cinn roll | 5 | danish | 5 | walnut scone | 5 | currant scone | 5 | blue muff | 5 | nut muff | 5 | pop muffin | 5 | croissant | 5 | choc croissant | 5 | alm croissant | 5 | glazed donut | 5 | choc donut | 5 | sprinkle  | 5 | blue donut | 5 | cinn donut | 5 | 
+day | mon | pec | 6 | migas | 6 | bc | 6 | vegan | 6 | cinn roll | 6 | danish | 6 | walnut scone | 6 | currant scone | 6 | blue muff | 6 | nut muff | 6 | pop muffin | 6 | croissant | 6 | choc croissant | 6 | alm croissant | 6 | glazed donut | 6 | choc donut | 6 | sprinkle  | 6 | blue donut | 6 | cinn donut | 6 | 
+day | tue | pec | 7 | migas | 7 | bc | 7 | vegan | 7 | cinn roll | 7 | danish | 7 | walnut scone | 7 | currant scone | 7 | blue muff | 7 | nut muff | 7 | pop muffin | 7 | croissant | 7 | choc croissant | 7 | alm croissant | 7 | glazed donut | 7 | choc donut | 7 | sprinkle  | 7 | blue donut | 7 | cinn donut | 7 | 
+day | wed | pec | 1 | migas | 1 | bc | 1 | vegan | 1 | cinn roll | 1 | danish | 1 | walnut scone | 1 | currant scone | 1 | blue muff | 1 | nut muff | 1 | pop muffin | 1 | croissant | 1 | choc croissant | 1 | alm croissant | 1 | glazed donut | 1 | choc donut | 1 | sprinkle  | 1 | blue donut | 1 | cinn donut | 1 | 
+day | thu | pec | 2 | migas | 2 | bc | 2 | vegan | 2 | cinn roll | 2 | danish | 2 | walnut scone | 2 | currant scone | 2 | blue muff | 2 | nut muff | 2 | pop muffin | 2 | croissant | 2 | choc croissant | 2 | alm croissant | 2 | glazed donut | 2 | choc donut | 2 | sprinkle  | 2 | blue donut | 2 | cinn donut | 2 | 
+day | fri | pec | 3 | migas | 3 | bc | 3 | vegan | 3 | cinn roll | 3 | danish | 3 | walnut scone | 3 | currant scone | 3 | blue muff | 3 | nut muff | 3 | pop muffin | 3 | croissant | 3 | choc croissant | 3 | alm croissant | 3 | glazed donut | 3 | choc donut | 3 | sprinkle  | 3 | blue donut | 3 | cinn donut | 3 | 
+day | sat | pec | 4 | migas | 4 | bc | 4 | vegan | 4 | cinn roll | 4 | danish | 4 | walnut scone | 4 | currant scone | 4 | blue muff | 4 | nut muff | 4 | pop muffin | 4 | croissant | 4 | choc croissant | 4 | alm croissant | 4 | glazed donut | 4 | choc donut | 4 | sprinkle  | 4 | blue donut | 4 | cinn donut | 4 | 
+day | sun | pec | 5 | migas | 5 | bc | 5 | vegan | 5 | cinn roll | 5 | danish | 5 | walnut scone | 5 | currant scone | 5 | blue muff | 5 | nut muff | 5 | pop muffin | 5 | croissant | 5 | choc croissant | 5 | alm croissant | 5 | glazed donut | 5 | choc donut | 5 | sprinkle  | 5 | blue donut | 5 | cinn donut | 5 | 
+day | mon | pec | 6 | migas | 6 | bc | 6 | vegan | 6 | cinn roll | 6 | danish | 6 | walnut scone | 6 | currant scone | 6 | blue muff | 6 | nut muff | 6 | pop muffin | 6 | croissant | 6 | choc croissant | 6 | alm croissant | 6 | glazed donut | 6 | choc donut | 6 | sprinkle  | 6 | blue donut | 6 | cinn donut | 6 | 
+day | tue | pec | 7 | migas | 7 | bc | 7 | vegan | 7 | cinn roll | 7 | danish | 7 | walnut scone | 7 | currant scone | 7 | blue muff | 7 | nut muff | 7 | pop muffin | 7 | croissant | 7 | choc croissant | 7 | alm croissant | 7 | glazed donut | 7 | choc donut | 7 | sprinkle  | 7 | blue donut | 7 | cinn donut | 7 | 
+day | wed | pec | 1 | migas | 1 | bc | 1 | vegan | 1 | cinn roll | 1 | danish | 1 | walnut scone | 1 | currant scone | 1 | blue muff | 1 | nut muff | 1 | pop muffin | 1 | croissant | 1 | choc croissant | 1 | alm croissant | 1 | glazed donut | 1 | choc donut | 1 | sprinkle  | 1 | blue donut | 1 | cinn donut | 1 | 
+day | thu | pec | 2 | migas | 2 | bc | 2 | vegan | 2 | cinn roll | 2 | danish | 2 | walnut scone | 2 | currant scone | 2 | blue muff | 2 | nut muff | 2 | pop muffin | 2 | croissant | 2 | choc croissant | 2 | alm croissant | 2 | glazed donut | 2 | choc donut | 2 | sprinkle  | 2 | blue donut | 2 | cinn donut | 2 | 
+day | fri | pec | 3 | migas | 3 | bc | 3 | vegan | 3 | cinn roll | 3 | danish | 3 | walnut scone | 3 | currant scone | 3 | blue muff | 3 | nut muff | 3 | pop muffin | 3 | croissant | 3 | choc croissant | 3 | alm croissant | 3 | glazed donut | 3 | choc donut | 3 | sprinkle  | 3 | blue donut | 3 | cinn donut | 3 | 

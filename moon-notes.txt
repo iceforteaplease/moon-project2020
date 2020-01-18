@@ -27,16 +27,16 @@ Different program to update cells??
 Save file with current data before updating all cells !
 
 Get month/year somewhere on spreadsheet !
-  separate program to make sure it's on current month??
 
 What if want to run file mid month, don't want cells to clear out??
+	Dustin said no need to run file mid month
 
 What's the best way to combine files for this project, do we want separate funcionality??
 	two files (data, calculations, output, files, email), (update month/weekdays, clear out cells)??
 
 Clear out to blanks for all/variable number of items?
 
-
+Do created files need month/year??
 
 Tasks
 Lay out spreadsheet !
@@ -53,14 +53,21 @@ Test program for program running automatically?
 
 Test program for pulling data from spreadsheet with one call?
 
-Write program to fit with new spreadsheet?
+Write program to fit with new spreadsheet !
+
+Roy Notes :
+	google spreadsheets permissions/cell protection?
+	php program that accepts txt file as upload and email
+	think about getting on web
+	think about web interface for data instead of google sheet
+	google pricing questions in variety of ways
 
 Next as of 1/7:
-  monty/year at top to update correctly (show month, account for dec-jan transition)?
-		when is program going to run?? On the first of the month??
-  code calculations (total, averages)?
+  month/year at top to update correctly (show month, account for dec-jan transition)?
+		when is program going to run ! On the first of the month, yes !
+  code calculations (total, averages) !
   combine functionalities (calculations, file creation, email, update sheet)?
-  format files that are created?
+  format files that are created !
   how to get email working for production (with security)?
 
 
@@ -76,10 +83,11 @@ Next as of 1/7:
 		 - think about looping for variable items, what variables/lists/dicts need to be created automatically !
 		    dict for weekday item totals. list for items.
 
-1/14 - get averages to output nicely?
-		 - account for food_items variability in output?
-		 - start putting files together?
+1/14 - get averages to output nicely !
+		 - account for food_items variability in output !
+		 - start putting files together !
 
+1/15 - start combining files
 
 gspread get_all_records documentation
   get_all_records(empty2zero=False, head=1, default_blank='', allow_underscores_in_numeric_literals=False)
